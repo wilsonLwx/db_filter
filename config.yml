@@ -1,0 +1,16 @@
+ex_db_config:
+  host: 127.0.0.1
+  port: 3306
+  user: root
+  pwd: mysql
+  db: atom
+  table: InterfaceList
+  save_path: ./
+
+im_db_config:
+  host: 127.0.0.1
+  port: 3306
+  user: root
+  pwd: mysql
+  db: atom
+  file_name: ./InterfaceList.sql
